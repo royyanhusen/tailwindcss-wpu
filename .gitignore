@@ -1,6 +1,9 @@
 # Abaikan folder node_modules
 node_modules/
 
+# Abaikan folder vscode
+.vscode
+
 # Abaikan file log
 *.log
 
