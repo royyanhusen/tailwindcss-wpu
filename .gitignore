@@ -1,0 +1,12 @@
+# Abaikan folder node_modules
+node_modules/
+
+# Abaikan file log
+*.log
+
+# Abaikan file cache atau build
+.cache/
+dist/
+
+# Abaikan file environment
+.env
